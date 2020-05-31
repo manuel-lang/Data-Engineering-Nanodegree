@@ -1,4 +1,4 @@
-# Udacity Data Engineering Nanodegree
+# Data Engineering Nanodegree
 All projects of Udacity's [Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027). 
 
 ## Projects
